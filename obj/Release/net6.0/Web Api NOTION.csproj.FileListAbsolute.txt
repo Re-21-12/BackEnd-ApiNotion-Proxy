@@ -1,0 +1,33 @@
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\appsettings.Development.json
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\appsettings.json
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Web Api NOTION.exe
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Web Api NOTION.deps.json
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Web Api NOTION.runtimeconfig.json
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Web Api NOTION.dll
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Web Api NOTION.pdb
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# Learning\Web Api NOTION\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.csproj.AssemblyReference.cache
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.AssemblyInfoInputs.cache
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.AssemblyInfo.cs
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.csproj.CoreCompileInputs.cache
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\staticwebassets\msbuild.Web Api NOTION.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\staticwebassets\msbuild.build.Web Api NOTION.props
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web Api NOTION.props
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Web Api NOTION.props
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\staticwebassets.pack.json
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\staticwebassets.build.json
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\staticwebassets.development.json
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\scopedcss\bundle\Web Api NOTION.styles.css
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.csproj.CopyComplete
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.dll
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\refint\Web Api NOTION.dll
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.pdb
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\Web Api NOTION.genruntimeconfig.cache
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\ref\Web Api NOTION.dll

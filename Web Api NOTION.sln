@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Api NOTION", "Web Api NOTION.csproj", "{FEF8ED92-5E87-43CE-AA8F-ED1965EC61E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF8ED92-5E87-43CE-AA8F-ED1965EC61E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF8ED92-5E87-43CE-AA8F-ED1965EC61E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF8ED92-5E87-43CE-AA8F-ED1965EC61E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF8ED92-5E87-43CE-AA8F-ED1965EC61E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B4E63C7-C734-485E-9111-2D6DE2755B43}
+	EndGlobalSection
+EndGlobal

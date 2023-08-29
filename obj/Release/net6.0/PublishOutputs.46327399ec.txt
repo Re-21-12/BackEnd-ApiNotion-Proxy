@@ -1,0 +1,12 @@
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Web Api NOTION.exe
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Web Api NOTION.dll
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Web Api NOTION.deps.json
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Web Api NOTION.runtimeconfig.json
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Web Api NOTION.pdb
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# Learning\Web Api NOTION\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
