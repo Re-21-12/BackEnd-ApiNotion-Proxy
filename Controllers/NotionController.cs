@@ -18,9 +18,10 @@ namespace Web_Api_NOTION.Controllers
         private readonly HttpClient _httpClient;
 
         //Credenciales
-        private string databaseId = "2eecf8516a124a69aa9607315c9d5617";
-        private string NOTION_TOKEN = "secret_EQHJJsK52S3L6B2ad8tFJmtj8I5uPR3WglPPKFrg40b";
-        private string notionVersion = "2022-06-28";
+        private string databaseId = "DEBES AGREGAR DB ID/ YOU SHOULD BE AGG YOU ID BD";
+        private string NOTION_TOKEN = "DEBES AGREGAR TU TOKEN GENERADO POR NOTION/YOU SHOULD BE AGG YOU NOTION TOKEN";
+        private string notionVersion = "2022-06-28"; //<- AQUI ESCOGES LA VERSION DE NOTION A UTILIZAR ESTA PUEDE CAMBIAR CON EL TIEMPO 
+        //UP THERE YOU SHOULD BE AGG THE VERSION WHAT YOU USE IN YOUR PROJECT FOR MORE INFO CONSULT THE API DOCUMENTACION INFO
 
         public NotionController()
         {
